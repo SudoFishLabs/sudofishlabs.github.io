@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <!-- Banner -->
+  {{ with .Params.banner }}
+    <section class="section pt-14">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-7 md:col-9 mb-6 text-center">
+            <div>
+              <img src="/images/logo.png" alt="Logo" class="h-48 mx-auto">
+            </div>
+            <h3 class="m-6 text-h3 lg:text-h3">
+              {{ .title | markdownify }}
+            </h3>
+            <h3 class="mb-4 text-h3 lg:text-h3">
+              {{ .titleTag | markdownify }}
+            </h3>
+            <p>
+              {{ .content | markdownify }}
+            </p>
+            {{ with .button }}
+              {{ if .enable }}
+                <a
+                  class="btn btn-primary"
+                  href="{{ .link | absURL }}"
+                  {{ if strings.HasPrefix .link `http` }}
+                    target="_blank" rel="noopener"
+                  {{ end }}>
+                  {{ .label }}
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}

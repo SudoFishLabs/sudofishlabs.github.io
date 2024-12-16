@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "appstore",
+      "icon": "fab fa-app-store-ios",
+      "link": "https://www.apple.com/app-store/"
+    },
+    {
+      "name": "playstore",
+      "icon": "fab fa-google-play",
+      "link": "https://play.google.com/store"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/"
+    }
+  ]
+}
