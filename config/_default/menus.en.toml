@@ -5,16 +5,11 @@
 
 # footer menu
 [[footer]]
-name = "About"
-pageRef = "/about"
+name = "LevelupHN"
+url = "/leveluphn"
 weight = 1
 
 [[footer]]
 name = "Contact Us"
 url = "mailto:asd@example.com"
 weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
