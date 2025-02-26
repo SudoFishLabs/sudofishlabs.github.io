@@ -8,5 +8,5 @@ banner:
 
 features:
   - title: "Our Apps"
-    content: "LevelUp for Hackernews is a cross-platform client that lets you browse the latest news, stories, and comments with ease and features AI-generated news summaries to help you stay informed quickly. Available on both Android and iOS, it’s built with React Native."
+    content: "LevelUp for Hackernews delivers a clean, intuitive Hacker News experience on your Android or iOS device. Dive into the latest stories and discussions, and save time with AI-powered summaries that distill the news into digestible insights."
 ---
