@@ -56,8 +56,8 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Levelup", "HackerNews", "Sudofish"]
-description = "LevelUp for HackerNews is a cross-platform client that features AI-generated news summaries."
+keywords = ["Levelup", "HackerNews", "Sudofish", "Hacker News"]
+description = "LevelUp for Hacker News is a cross-platform client that features AI-generated news summaries."
 author = "Sudofish Labs"
 image = "images/levelup-meta.png"
 
