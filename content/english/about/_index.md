@@ -2,7 +2,7 @@
 title: "Sudofish Labs"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/logo.png"
+image: "/images/sudofish-logo.png"
 draft: false
 ---
 
