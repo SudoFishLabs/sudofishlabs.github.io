@@ -56,10 +56,7 @@
                   md:order-2
                 {{ end }}">
                 <a href="/leveluphn" class="flex items-center text-center">
-                  <img
-                src="/images/logo.png"
-                alt="LevelUp for Hacker News logo"
-                class="w-12 h-12 mx-2" />
+                  {{ partial "image" (dict "Src" "/images/logo.png" "Alt" "LevelUp for Hacker News logo" "Loading" "eager" "Class" "w-12 h-12 mx-2") }}
                   <div class="inline-block text-h5 hover:underline">LevelUp for Hacker News</div>
                 </a>
               </div>
