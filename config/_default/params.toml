@@ -57,9 +57,9 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Levelup", "HackerNews", "Sudofish", "Hacker News"]
-description = "LevelUp for Hacker News is a cross-platform client that features AI-generated news summaries."
+description = "Sudofish Labs is an app studio specializing in building mobile applications for iOS and Android."
 author = "Sudofish Labs"
-image = "images/levelup-meta.png"
+image = "images/sudofish-logo.png"
 
 
 # site verifications
