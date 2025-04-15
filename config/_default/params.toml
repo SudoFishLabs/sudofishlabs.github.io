@@ -11,7 +11,7 @@ logo_height = "60px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "LevelUp"
+logo_text = "Sudofish Labs"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -56,7 +56,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Levelup", "HackerNews", "Sudofish", "Hacker News"]
+keywords = ["Levelup", "HackerNews", "Sudofish", "Hacker News", "Sudofish Labs"]
 description = "Sudofish Labs is an app studio specializing in building mobile applications for iOS and Android."
 author = "Sudofish Labs"
 image = "images/sudofish-logo.png"

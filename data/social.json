@@ -3,17 +3,17 @@
     {
       "name": "appstore",
       "icon": "fab fa-app-store-ios",
-      "link": "https://www.apple.com/app-store/"
+      "link": "https://apps.apple.com/in/app/levelup-for-hackernews/id6739486543"
     },
     {
       "name": "playstore",
       "icon": "fab fa-google-play",
-      "link": "https://play.google.com/store"
+      "link": "https://play.google.com/store/apps/details?id=com.sudofish.levelup"
     },
     {
       "name": "twitter",
       "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "link": "https://x.com/sudofishlabs"
     }
   ]
 }
